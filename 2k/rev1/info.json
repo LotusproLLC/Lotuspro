@@ -1,0 +1,23 @@
+{
+    "url": "",
+    "maintainer": "LotusPro",
+    "width": 2,
+    "height": 1,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "k00", "x": 0, "y": 0},
+                {"label": "k01", "x": 1, "y": 0}
+            ]
+        },
+            "keymap": [
+                ["0,0", "0,1"]
+            ]
+    },
+
+    "name": "LotusPro 2k Rev 1",
+    "vendorId": "0x0727",
+    "productId": "0x002A",
+    "lighting": "qmk_rgblight",
+    "matrix": {"rows": 1, "cols": 2}
+}
